@@ -11,8 +11,3 @@ function onBallClick(elBall) {
   elBall.innerText =  parseInt(elBall.style.height)
   
 }
-
-// 10.Change onBallClick() to increment the ball’s
-//  width & height by 50px and
-// display the updated diameter
-// inside the ball. Remove the console.log(). ⇩

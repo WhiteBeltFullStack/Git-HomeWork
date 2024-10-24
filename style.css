@@ -20,4 +20,7 @@ body {
   border-radius: 50%;
 
   transition: 0.5s;
+
+  font-size: 22px;
+  font-weight: bold;
 }
