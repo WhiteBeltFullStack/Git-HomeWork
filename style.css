@@ -14,12 +14,12 @@ body {
 
   height: 100px;
   width: 100px;
-  background-color: orange;
+  background-color: rgb(161, 219, 107);
 
   margin-inline: auto;
   border-radius: 50%;
 
-  transition: 0.5s;
+  transition: 1s;
 
   font-size: 22px;
   font-weight: bold;
