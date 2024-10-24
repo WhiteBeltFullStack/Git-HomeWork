@@ -9,8 +9,8 @@ function onBallClick(elBall) {
     currWidth = 50
   }
 
-  elBall.style.height = currHeight + 50 + 'px'
-  elBall.style.width = currWidth + 50 + 'px'
+  elBall.style.height = currHeight + getRandomInt(20,61) + 'px'
+  elBall.style.width = currWidth + getRandomInt(20,61) + 'px'
 
   elBall.innerText = parseInt(elBall.style.height)
 }
