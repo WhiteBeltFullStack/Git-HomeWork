@@ -24,3 +24,22 @@ body {
   font-size: 22px;
   font-weight: bold;
 }
+
+.ball2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    height: 100px;
+    width: 100px;
+    background-color: rgb(107, 90, 139);
+  
+    margin-inline: auto;
+    border-radius: 50%;
+
+  
+    transition: 1s;
+  
+    font-size: 22px;
+    font-weight: bold;
+  }
